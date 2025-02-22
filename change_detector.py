@@ -80,5 +80,6 @@ def change_detection():
     plt.axis('off')
     plt.show()
 
+    
 if __name__ == "__main__":
     change_detection()
