@@ -7,6 +7,9 @@ This project implements a simple change detection mechanism using deep feature e
 
 ### Usage
 Place your two images (img1.png and img2.png) in the working directory.
+![img1](https://github.com/user-attachments/assets/01c76ab3-ac52-4814-ad92-c4181a2ddf57)
+![img2](https://github.com/user-attachments/assets/48244723-c627-47f8-9ace-b0991aa33fa6)
+
 
 ### Run the script:
 `python change_detection.py`
